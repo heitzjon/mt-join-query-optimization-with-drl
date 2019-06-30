@@ -1,0 +1,20 @@
+import json as j
+
+f = open("imdb_schema.sql", "r")
+w = open("imdb_schema.json", "w")
+sql = f.read().replace('    ','')
+json = {}
+for table in sql.split(');\n\n'):
+    element=table.split(' (')
+    key = element[0].replace('CREATE TABLE ','')
+    values = []
+    for column in element[1].split(',\n'):
+        values.append(column.split(' ')[0].replace('\n',''))
+    json[key]=values
+
+print(len(json))
+print(sum(len(x) for x in json.values()))
+print(j.dumps(json))
+w.write(j.dumps(json))
+f.close()
+w.close()

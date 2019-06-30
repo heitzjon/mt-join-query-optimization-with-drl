@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: gym
+Version: 0.12.0
+Summary: The OpenAI Gym: A toolkit for developing and comparing your reinforcement learning agents.
+Home-page: https://github.com/openai/gym
+Author: OpenAI
+Author-email: gym@openai.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: classic_control
+Provides-Extra: robotics
+Provides-Extra: atari
+Provides-Extra: mujoco
+Provides-Extra: all
+Provides-Extra: box2d

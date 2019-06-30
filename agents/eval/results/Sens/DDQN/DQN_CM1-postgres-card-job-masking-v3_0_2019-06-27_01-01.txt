@@ -1,0 +1,66 @@
+0
+Episode reward -0.09909943265261287
+1
+Episode reward -0.04048878034633957
+2
+Episode reward -0.14027873736176988
+3
+Episode reward -0.2757943796277473
+4
+Episode reward -0.14027873736176988
+5
+Episode reward -0.03269284479641088
+6
+Episode reward -0.09909702864375958
+7
+Episode reward -0.03269284479641088
+8
+Episode reward -0.14027873736176988
+9
+Episode reward -0.09909943265261287
+10
+Episode reward -0.12242821421088672
+11
+Episode reward -0.2757943796277473
+12
+Episode reward -0.32204197199604767
+13
+Episode reward -10.0
+14
+Episode reward -0.66544804218219
+15
+Episode reward -1.5961380430876475
+16
+Episode reward -0.5683126437885454
+17
+Episode reward -0.5402698261583266
+18
+Episode reward -0.12431533109568649
+19
+Episode reward -0.12336994669697467
+20
+Episode reward -0.32204197199604767
+21
+Episode reward -0.523340791579023
+22
+Episode reward -10.0
+23
+Episode reward -0.12336994669697467
+24
+Episode reward -0.523340791579023
+25
+Episode reward -1.5961380430876475
+26
+Episode reward -2.3073709254846864
+27
+Episode reward -0.5234042161515298
+28
+Episode reward -0.5234042161515298
+29
+Episode reward -10.0
+30
+Episode reward -2.052019313053443
+31
+Episode reward -10.0
+32
+Episode reward -0.9794231398823333
