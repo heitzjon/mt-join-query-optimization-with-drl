@@ -1,7 +1,7 @@
 # Join Query Optimization with Deep Reinforcement Learning
 This repository contains the DRL-based FOOP-environment:
 
-"Join Query Optimization wiht Deep Reinforcement Learing" 
+"Join Query Optimization with Deep Reinforcement Learning" 
 by Jonas Heitz and Kurt Stockinger
 
 ## Basics
