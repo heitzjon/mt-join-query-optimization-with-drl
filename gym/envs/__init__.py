@@ -13,6 +13,10 @@ register(
     id='CM1-postgres-card-job-one-v0',
     entry_point='gym.envs.database:CM1PostgresCardJobOne'
 )
+register(
+    id='simple-corridor-ray-v0',
+    entry_point='gym.envs.database:SimpleCorridor'
+)
 
 
 register(

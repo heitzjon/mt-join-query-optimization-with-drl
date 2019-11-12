@@ -6,8 +6,9 @@ from queryoptimization.QueryGraph import Query, Relation
         calculates the cost of the given query object.
     card and card_nochache():
         gets the cardinality estimations from PostgreSQL.
+
+̣__author__ = 'Jonas Heitz'
 """
-̣__author__ = "Jonas Heitz"
 
 cardinality = {}
 

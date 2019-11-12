@@ -14,8 +14,9 @@ join_conditions = {}
     Query:
         Defines the functions and abilities of the queries and subqueries
         
+
+̣__author__= "Jonas Heitz"
 """
-̣__author__ = "Jonas Heitz"
 
 class Query_Init(object):
     actions = []
