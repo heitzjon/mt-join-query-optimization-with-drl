@@ -26,7 +26,7 @@ In the folder `/agents/rollout/` you find the scripts to test trained models and
 1. Load IMDB according to the guide from the [JOB](https://github.com/gregrahn/join-order-benchmark)
 1. Install Python 3.*
 1. Clone repository
-1. Install virtual environment from `requirements.txt`
+1. Install virtual environment from `requirements.txt` in the project folder
 1. As a last step you need to update the DB connection details and the path of the query files in the `__init__()` and `reset()` function of the environment files at `/gym/envs/database/`.
 
 ## Run
