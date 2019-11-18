@@ -14,6 +14,7 @@ from ray.rllib.models.misc import normc_initializer
 
 import ray
 from ray import tune
+from ray.tune.registry import register_env
 from ray.tune import grid_search
 
 
@@ -94,13 +95,13 @@ class CustomModel(Model):
 
 if __name__ == "__main__":
     # Can also register the env creator function explicitly with:
-    # register_env("corridor", lambda config: SimpleCorridor(config))
+    #register_env("corridor", lambda config: SimpleCorridor(config))
     ray.init()
     ModelCatalog.register_custom_model("my_model", CustomModel)
     tune.run(
         "DQN",
         stop={
-            "timesteps_total": 10 #10000,
+            "timesteps_total": 1 #10 #10000,
         },
         config={
             "env": "simple-corridor-ray-v0", #"CM1-postgres-card-ray-v0", #SimpleCorridor,  # or "corridor" if registered above

@@ -1,7 +1,8 @@
 """
     Config dict for vanilla DQN(SIMPLE_CONFIG), DDQN with Priority Replay(DOUBLE_PRIO) and PPO(PPO_CONFIG)
-"""
+
 ̣__author__ = "Jonas Heitz"
+"""
 
 from __future__ import absolute_import
 from __future__ import division

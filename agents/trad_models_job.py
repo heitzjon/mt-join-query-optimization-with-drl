@@ -12,9 +12,9 @@ from itertools import permutations, combinations
         DP left-deep, DP right-deep and greedy selection.
         For comparison of DRL approaches
 
-"""
-̣__author__ = "Jonas Heitz"
 
+̣__author__ = "Jonas Heitz"
+"""
 
 def dynamic_programming_left_deep(sql, schema, primary,lambda_f=1):
     try:

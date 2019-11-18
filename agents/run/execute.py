@@ -1,7 +1,8 @@
 """
     Executes series of experiments
-"""
+
 ̣__author__ = "Jonas Heitz"
+"""
 
 from __future__ import absolute_import
 from __future__ import division
