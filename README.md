@@ -1,8 +1,10 @@
 # Join Query Optimization with Deep Reinforcement Learning
 This repository contains the DRL-based FOOP-environment:
 
-"Join Query Optimization with Deep Reinforcement Learning" 
+"Join Query Optimization with Deep Reinforcement Learning Algorithms" 
 by Jonas Heitz and Kurt Stockinger
+Zurich Unviersity of Applied Sciences
+Winterthur, Switzerland
 
 ## Basics
 The source code is based on the gym from [OpenAI]( https://github.com/openai/gym). The code is divided in to two parts (Agent and Environment).
