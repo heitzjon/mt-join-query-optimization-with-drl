@@ -8,6 +8,8 @@ by Jonas Heitz and Kurt Stockinger, Zurich Unviersity of Applied Sciences, Winte
 The source code is based on the gym from [OpenAI]( https://github.com/openai/gym). The code is divided in to two parts (Agent and Environment).
 <img src="https://miro.medium.com/max/1808/1*WOYVzYnF-rbdcgZU2Wt9Yw.png" alt="Agent-Environment Feedback Loop" width="500"/>
 
+All the code was executed on Ubuntu version 18.04.1.
+
 ### Environment
 * In the folder `/gym/envs/database/` are the reinforcement learning environments defined to plan queries according to the template of gym.
 * In the folder `/queryoptimization/` you find the files `QueryGraph.py` and `cm1_postgres_card.py`. The first takes over the parsing of simple SQL-queries and includes the logic of the query planning. Whereas `cm1_postgres_card.py` delivers the expected costs of a query object according to the cost model introduced in the paper “How good are query optimizers, really?” by Leis et al.
