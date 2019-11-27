@@ -2,7 +2,7 @@
 This repository contains the DRL-based FOOP-environment:
 
 "*Join Query Optimization with Deep Reinforcement Learning Algorithms*" 
-by Jonas Heitz and Kurt Stockinger, Zurich Unviersity of Applied Sciences, Winterthur, Switzerland
+by Jonas Heitz and Kurt Stockinger, Zurich University of Applied Sciences, Winterthur, Switzerland
 
 https://arxiv.org/abs/1911.11689
 
