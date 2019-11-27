@@ -4,6 +4,8 @@ This repository contains the DRL-based FOOP-environment:
 "Join Query Optimization with Deep Reinforcement Learning Algorithms" 
 by Jonas Heitz and Kurt Stockinger, Zurich Unviersity of Applied Sciences, Winterthur, Switzerland
 
+https://arxiv.org/abs/1911.11689
+
 ## Basics
 The source code is based on the gym from [OpenAI]( https://github.com/openai/gym). The code is divided in to two parts (Agent and Environment).
 <img src="https://miro.medium.com/max/1808/1*WOYVzYnF-rbdcgZU2Wt9Yw.png" alt="Agent-Environment Feedback Loop" width="500"/>
